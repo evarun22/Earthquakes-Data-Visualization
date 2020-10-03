@@ -27,5 +27,7 @@ The following tasks and questions will drive the visualization and interaction d
 ![image](https://user-images.githubusercontent.com/29768921/94611305-8c18e800-026f-11eb-91a6-f80319772f6e.png)
 
 * The 1st sketch shows the occurrences of earthquakes all over the world with the size of the red circle representing magnitude
+** I would like to include a tool tip that shows the name of the country when hovered upon
+** It will also include dropdown menus for FROM and TO by which the period can be selected
 * The 2nd sketch shows the number of earthquakes by continent during different periods
 * The 3rd sketch shows relationship between the variables Depth, Horizontal Distance and Magnitude
