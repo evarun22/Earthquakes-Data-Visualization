@@ -17,7 +17,6 @@ I’ve created a map that shows the occurences of earthquakes by latitude and lo
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
  * Countries with highest number of earthquakes by number
- * Countries with most number of earthquakes
  * Countries with most dangerous earthquakes (magnitude more than 8)
  * Continents with the number of earthquakes in each period along with their magnitudes
  * Is there any Correlation between Horizontal distance, Magnitude and Depth?
