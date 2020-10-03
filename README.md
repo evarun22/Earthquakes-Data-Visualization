@@ -16,18 +16,45 @@ I’ve created a map that shows the occurences of earthquakes by latitude and lo
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * Top 10 years with highest number of earthquakes by number
+ * Countries with highest number of earthquakes by number
  * Countries with most number of earthquakes
  * Countries with most dangerous earthquakes (magnitude more than 8)
- * Year wise average depth for earthquakes in a region (continent)
- * Count of Magnitude type by country and year
+ * Continents with the number of earthquakes in each period along with their magnitudes
+ * Is there any Correlation between Horizontal distance, Magnitude and Depth?
 
 ## Sketches
 
 ![image](https://user-images.githubusercontent.com/29768921/94611305-8c18e800-026f-11eb-91a6-f80319772f6e.png)
 
 * The 1st sketch shows the occurrences of earthquakes all over the world with the size of the red circle representing magnitude
-** I would like to include a tool tip that shows the name of the country when hovered upon
-** It will also include dropdown menus for FROM and TO by which the period can be selected
+  * I would like to include a tool tip that shows the name of the country when hovered upon
+  * It will also include dropdown menus for FROM and TO by which the period can be selected
+  * The size of the marker will represent magnitude
+  * The darkness of color will represent the density
 * The 2nd sketch shows the number of earthquakes by continent during different periods
+  * It will have a filter to select only particular continent(s)
+  * It will have a filter to select time period
+  * It will have a feature to select a range for the number of earthquakes 
 * The 3rd sketch shows relationship between the variables Depth, Horizontal Distance and Magnitude
+  * Color will represent magnitude
+  * Filters will be added to narrow the dataset down and have a closer look
+  * Will help in understanding if there is a correlation among any of the three features
+
+## Schedule of Deliverables
+
+* 7 October 2020 - Process dataset and include country and continent names by Latitude and Longitude
+  * Use Python and update the dataset to have two different columns - Country and Continent
+  * Update the processed dataset to the GitHub gist.
+* 14 October 2020 - Complete the visualization of the first sketch
+  * 10 October 2020 - Complete the plotting of points on the map
+  * 12 October 2020 - Include the tooltip
+  * 14 October 2020 - Include the dropdown menus
+* 21 October 2020 - Complete the visualization of the second sketch
+  * 24 October 2020 - Complete plotting the graph
+  * 26 October 2020 - Include features for Continent and Time Period
+  * 28 October 2020 - Include range filter for number of earthquakes
+* 28 October 2020 - Complete the visualization of the third sketch
+  * 30 October 2020 - Complete plotting the graph
+  * 1 November 2020 - Include color hue and range for axes
+* 4 November 2020 - Complete Project and improvisations along the way (if found any)
+  * 2 and 3 November 2020 - Look to improve the plots and make the visualizations more appeaing and interactive
