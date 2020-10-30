@@ -1,4 +1,4 @@
-,Unnamed: 0,Date,Time,Latitude,Longitude,Type,Depth,Magnitude,Horizontal Distance,ID,Status,Coordinates,Country,Year,Month,Day,Continent
+,Unnamed: 0,Date,Time,Latitude,Longitude,Type,Depth,Magnitude,Horizontal_Distance,ID,Status,Coordinates,Country,Year,Month,Day,Continent
 1,1,1965-01-04,11:29:49,1.863,127.352,Earthquake,80.0,5.8,,ISCGEM860737,Automatic,"1.8630000000000002, 127.352",Indonesia,1965,1,4,Asia
 5,5,1965-01-10,13:36:32,-13.405,166.62900000000005,Earthquake,35.0,6.7,,ISCGEM860922,Automatic,"-13.405, 166.62900000000002",Vanuatu,1965,1,10,Oceania
 6,6,1965-01-12,13:32:25,27.357,87.867,Earthquake,20.0,5.9,,ISCGEM861007,Automatic,"27.357, 87.867",Nepal,1965,1,12,Asia
