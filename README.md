@@ -50,7 +50,7 @@ The following tasks and questions will drive the visualization and interaction d
 * 21 October 2020 - Complete the visualization of the second sketch
   * 17 October 2020 - Complete plotting the graph
   * 19 October 2020 - Include features for Continent and Time Period
-  * 21 October 2020 - Include range filter for number of earthquakes
+  * 21 October 2020 - Include range filters
 * 28 October 2020 - Complete the visualization of the third sketch
   * 24 October 2020 - Complete plotting the graph
   * 28 November 2020 - Include color hue and range for axes
