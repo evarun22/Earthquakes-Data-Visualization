@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  font-family: 'Poppins', sans-serif;
+}
+pre {
+  font-size: 7em;
+}
+.marks .land {
+  fill: mediumseagreen;
+}
+.marks .sphere {
+  fill: lightskyblue;
+}
+.marks .interiors {
+  fill: none;
+  stroke: #d9dfe0;
+}
+.marks .graticules {
+  fill: none;
+  stroke: #ececec;
+}
+.marks .pints path {
+  stroke: black;
+  stroke-width: 0.25;
+}
+.marks .points path:hover {
+  stroke: black;
+  stroke-width: 3;
+}
+circle {
+  fill: red;
+  opacity: 0.1;
+  stroke-width: 3;
+}
+
+
+
