@@ -57,6 +57,15 @@ The following tasks and questions will drive the visualization and interaction d
 * 4 November 2020 - Completed Project and improvisations along the way 
   * 2 and 3 November 2020 - Improved the plots and make the visualizations more appeaing and interactive
 
+## Data Cleaning
+Data has been cleaned using Python and the code and the new cleaned dataset have been uploaded to this repository. 
+After cleaning, the dataset now has the following features:
+* Country
+* Continent
+* Day
+* Month
+* Year
+
 ## Visualizations
 * Plot 1:
 
