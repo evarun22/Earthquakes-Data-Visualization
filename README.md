@@ -42,15 +42,15 @@ The following tasks and questions will drive the visualization and interaction d
 ## Visualizations
 Sketch 1:
 
-[![image](https://github.com/evarun22/Earthquakes-Data-Visualization/issues/3#issue-734153913)](https://vizhub.com/evarun22/ab189a6d9b994a63bd2dff2983a7d9af?edit=files&file=useData.js&mode=full)
+[![image](https://github.com/evarun22/Earthquakes-Data-Visualization/issues/3#issue-734153913)] (https://vizhub.com/evarun22/ab189a6d9b994a63bd2dff2983a7d9af?edit=files&file=useData.js&mode=full)
 
 Sketch 2:
 
-[![image](https://github.com/evarun22/Earthquakes-Data-Visualization/issues/4#issue-734154061)](https://vizhub.com/evarun22/24f9c60769ab42b1a0f8e62e75aaff9d?edit=files&file=README.md&mode=full)
+[![image](https://github.com/evarun22/Earthquakes-Data-Visualization/issues/4#issue-734154061)] (https://vizhub.com/evarun22/24f9c60769ab42b1a0f8e62e75aaff9d?edit=files&file=README.md&mode=full)
 
 Sketch 3 (improvised):
 
-[![image](https://github.com/evarun22/Earthquakes-Data-Visualization/issues/5#issue-734154178)](https://vizhub.com/evarun22/91091303ebcc4c5f9022c0605eedd0bf?edit=files&file=index.html&mode=full)
+[![image](https://github.com/evarun22/Earthquakes-Data-Visualization/issues/5#issue-734154178)] (https://vizhub.com/evarun22/91091303ebcc4c5f9022c0605eedd0bf?edit=files&file=index.html&mode=full)
 
 ## Schedule of Deliverables
 
