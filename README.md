@@ -78,3 +78,9 @@ The range can be used to select the years which are to be visualized.
 A scatterplot showing Depth vs Magnitude for earthquakes across all continents since 1965 (a realization of my third sketch). Initially, I thought of including the Horizontal Distance on X-axis and indicate Magnitude by Luminance. But this did not come out well as 99% of all the data points have the same value for Horizontal Distance. Hence, I changed path and cam up with this plot to better understand the relationship between these two features.
 
 The X axis represents Magnitude and the Y axis represents Depth. The Dropdown menus on the top allows to select any particular range of both the attributes - Depth and Magnitude. This might be helpful to study earthquakes in a particular region and depth-range/magnitude-range. Upon hovering onto any data point on the plot, information regarding Country Name, Date of when the earthquake has occurred, its Magnitude and its Depth can be seen. 
+
+## Future Work
+* To include a zoom option on the map (Plot 1)
+* To include a filter to visualize earthquakes by Year (Plot 1)
+* To add a drop down to choose Continent(s)
+* To come up with more interesting visualizations
