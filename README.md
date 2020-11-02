@@ -82,5 +82,5 @@ The X axis represents Magnitude and the Y axis represents Depth. The Dropdown me
 ## Future Work
 * To include a zoom option on the map (Plot 1)
 * To include a filter to visualize earthquakes by Year (Plot 1)
-* To add a drop down to choose Continent(s)
+* To add a drop down to choose Continent(s) (Plot 2)
 * To come up with more interesting visualizations
