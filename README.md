@@ -78,7 +78,7 @@ A world map showing earthquakes with magnitude and dates since 1965 (a realizati
 [![Sketch 2](https://user-images.githubusercontent.com/29768921/97827736-22876180-1c93-11eb-9315-12bda71c1e1b.PNG)](https://vizhub.com/evarun22/24f9c60769ab42b1a0f8e62e75aaff9d?edit=files&file=README.md&mode=full)
 
 A bar graph showing number of earthquakes across all continents since 1965 to 1988 (a realization of my second sketch). The X axis represents the Year, Y axis represents number of earthquakes and color represents Continent. The blank entry space on the list of Continents refers to earthquakes that have occurred in International Waters - boundaries of which do not belong to any particular country and hence are not indicated using any continent.
-The range can be used to select the years which are to be visualized.
+The range can be used to select the years which are to be visualized. Upon hovering onto any stacked bar on the plot, information regarding Continent Name, Number of Earthquakes and the year can be seen.
 
 * Plot 3 (improvised):
 
