@@ -58,20 +58,20 @@ The following tasks and questions will drive the visualization and interaction d
   * 2 and 3 November 2020 - Improved the plots and make the visualizations more appeaing and interactive
 
 ## Visualizations
-Sketch 1:
+* Plot 1:
 
 [![Sketch 1](https://user-images.githubusercontent.com/29768921/97827716-13081880-1c93-11eb-9a24-f8d412b6ea15.PNG)](https://vizhub.com/evarun22/ab189a6d9b994a63bd2dff2983a7d9af?edit=files&file=useData.js&mode=full)
 
 A world map showing earthquakes with magnitude and dates since 1965 (a realization of my first sketch). Upon hovering onto any point, the tooltip displays the name of the Country and the Magnitude of the earthquake.
 
-Sketch 2:
+* Plot 2:
 
 [![Sketch 2](https://user-images.githubusercontent.com/29768921/97827736-22876180-1c93-11eb-9315-12bda71c1e1b.PNG)](https://vizhub.com/evarun22/24f9c60769ab42b1a0f8e62e75aaff9d?edit=files&file=README.md&mode=full)
 
 A bar graph showing number of earthquakes across all continents since 1965 to 1988 (a realization of my second sketch). The X axis represents the Year, Y axis represents number of earthquakes and color represents Continent. The blank entry space on the list of Continents refers to earthquakes that have occurred in International Waters - boundaries of which do not belong to any particular country and hence are not indicated using any continent.
 The range can be used to select the years which are to be visualized.
 
-Sketch 3 (improvised):
+* Plot 3 (improvised):
 
 [![Sketch 3](https://user-images.githubusercontent.com/29768921/97827758-303ce700-1c93-11eb-87ff-38919d1f70fa.PNG)](https://vizhub.com/evarun22/91091303ebcc4c5f9022c0605eedd0bf?edit=files&file=index.html&mode=full)
 
