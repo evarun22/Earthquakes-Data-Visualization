@@ -38,6 +38,9 @@ The following tasks and questions will drive the visualization and interaction d
   * Color will represent magnitude
   * Filters will be added to narrow the dataset down and have a closer look
   * Will help in understanding if there is a correlation among any of the three features
+  
+## Visualizations
+Sketch 1:
 
 ## Schedule of Deliverables
 
