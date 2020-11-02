@@ -58,7 +58,7 @@ The following tasks and questions will drive the visualization and interaction d
   * 2 and 3 November 2020 - Improved the plots and make the visualizations more appeaing and interactive
 
 ## Data Cleaning
-Data has been cleaned using Python and the code and the new cleaned dataset have been uploaded to this repository. 
+Data has been cleaned using Python and the [code](https://github.com/evarun22/Earthquakes-Data-Visualization/blob/master/data_cleaning.ipynb) and the new [cleaned dataset](https://github.com/evarun22/Earthquakes-Data-Visualization/blob/master/earthquakes_cleaned.csv) have been uploaded to this repository. 
 After cleaning, the dataset now has the following features:
 * Country
 * Continent
